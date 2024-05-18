@@ -1,0 +1,48 @@
+#p2{
+    color: rgb(201, 116, 19);
+    background-color: darkblue;
+    margin-top: 20px;
+}
+h1{
+    color: gold;
+    background-color: rgb(198, 170, 9);
+    border:5px;
+    border-radius: 10px;
+    border-style: outset;
+}
+
+
+#p1{
+    text-align: center;
+    background-color:lightgray;
+   border: 10px;
+   border-radius: 20px;
+   text-decoration: dashed;
+   padding: 10px;
+   color: black;
+   font-style: italic;
+   font-size: 30px;
+   padding-bottom: 10px;
+   
+}
+#about{
+    text-align: center;
+    background-color: lightblue;
+    border: 10px;
+    border-radius: 20px;
+}
+#t1{
+    background-color: lightcoral;
+    text-align: center;
+    border: 15px;
+    border-color: brown;
+}
+body{
+    background: linear-gradient(skyblue, lightgreen);
+    background-position: fixed;
+
+}
+#y1{
+    border: 80px;
+    border-style: groove;
+}
